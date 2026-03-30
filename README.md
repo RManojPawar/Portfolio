@@ -51,14 +51,6 @@ Final-year **BE Information Science student** with a strong interest in **Softwa
 
 ---
 
-###  **SMART AGRICULTURE MARKETPLACE**
-- IoT + AI-based smart farming platform  
-- Crop recommendation & disease detection  
-- Smart irrigation system  
-- Farmer marketplace integration  
-
----
-
 ###  **SMARTFEEDBACK AI**
 - Agentic AI system for feedback analysis  
 - Converts user feedback into structured tickets  
@@ -69,7 +61,31 @@ Final-year **BE Information Science student** with a strong interest in **Softwa
 ###  **STORYSPHERE-AI**
 - Multilingual storytelling web application  
 - Real-time translation + text-to-speech  
-- AI-based image generation  
+- AI-based image generation
+
+ ---
+
+  ###  **TRAVELEASE (Java + MySQL)**
+> Backend System | Database Management
+
+- Developed travel management system  
+- Managed bookings, hotels, and customer data  
+- Implemented MySQL-based database integration  
+- Focused on backend logic and data handling  
+
+---
+
+###  **MACHINE LEARNING CASE STUDIES**
+> Machine Learning | Data Science
+
+- Built end-to-end ML models using real datasets  
+- Implemented:
+  - Linear Regression  
+  - Logistic Regression  
+  - Decision Trees  
+  - SVM  
+- Performed preprocessing, training, and evaluation  
+- Worked on datasets like Iris and clustering problems  
 
 ---
 
