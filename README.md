@@ -63,8 +63,6 @@ Final-year **BE Information Science student** with a strong interest in **Softwa
  ---
 
   ###  **TRAVELEASE (Java + MySQL)**
-> Backend System | Database Management
-
 - Developed travel management system  
 - Managed bookings, hotels, and customer data  
 - Implemented MySQL-based database integration  
@@ -73,10 +71,9 @@ Final-year **BE Information Science student** with a strong interest in **Softwa
 ---
 
 ###  **MACHINE LEARNING CASE STUDIES**
-> Machine Learning | Data Science
-
 - Built end-to-end ML models using real datasets  
 - Implemented:
+  - Data Science Libraries 
   - Linear Regression  
   - Logistic Regression  
   - Decision Trees  
