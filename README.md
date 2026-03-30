@@ -25,17 +25,14 @@ Final-year **BE Information Science student** with a strong interest in **Softwa
 - HTML, CSS, JavaScript, Bootstrap  
 
 ###  AI / Data
-- Artificial Intelligence  
+- Artificial Intelligence
+- Data Science 
 - Generative AI  
 - Agentic AI  
-- Prompt Engineering  
+- LLM Prompt Engineering  
 
 ###  Databases
 - MySQL, MongoDB  
-
-###  Tools
-- Power BI, Tableau  
-- Git, GitHub, VS Code  
 
 ---
 
